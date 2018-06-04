@@ -1,0 +1,35 @@
+
+		.foto{
+			border-radius: 50%;
+			width: 15%;
+			border-width: 10px;
+			border-color: #efefef;
+			border-style: solid;
+            margin-left: 40%;
+            margin-top: 100px;
+            z-index: 10%;
+		}
+		.nombre{
+			text-align: center;
+			padding: 4%;
+		}
+		.color-fondo{
+			background-color: #f7f7f7;
+			z-index: -10%;
+			height: 250px;
+			margin-bottom: 80px;
+		}
+		.primer_item{
+			color: red;
+		}
+		.segundo_item{
+			color: red;
+		}
+		.ED2012{
+			background-color:  #f7f7f7;
+			display: inline-block;
+			padding: 0px 10px 0px 10px;
+		}
+		
+			
+		
